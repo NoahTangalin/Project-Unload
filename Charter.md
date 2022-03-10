@@ -1,4 +1,4 @@
-# Project Charter: <Project-Unload>
+# Project Charter: Project-Unload
 
 * Project Start Date: 
 * Projected Finish Date: 
