@@ -35,8 +35,8 @@ Success Criteria: Lists top employees based on most trailers unloaded.
 |Software that talks to both Python and the database.| | |
 |A database that stores information about employees and trailers unloaded.| |Backend|
 ## EARe Store
-EARe Store: projectUnload__EARESTORE__220311014839.html 
-Data Dictionary:  projectUnload__dataDict__220311014839.html
+* EARe Store: projectUnload__EARESTORE__220311014839.html 
+* Data Dictionary:  projectUnload__dataDict__220311014839.html
 
 [](/Users/alainahatfield/Downloads/projectUnload__ERD__220315091311.png)
 ### Key Project Team Members
