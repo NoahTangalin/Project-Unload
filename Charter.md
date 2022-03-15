@@ -12,9 +12,9 @@
 2. Create a 1st, 2nd, 3rd place for a reward system for the company that is based on employees with the highest number of trailers unloaded.
 3. Create a feature for a website that pulls data from SQL to the website and adds up the number of trailers unloaded for each employee.
 4. Achievements/rewards for the number of trailers unloaded like a shout out on the leaderboard.
-   1. Ie first 10 
-   2. First 100 
-   3. Making it to 1000
+   1. Ie first 10 trailers unloaded
+   2. First 100 trailers unloaded
+   3. Making it to 1000 trailers unloaded
 5. Add happy birthday callout to the leaderboard. (this might be out of scope)
 ## Key Scheduled Milestones
 * First working solution of Project Unload presented to our stakeholders. 
