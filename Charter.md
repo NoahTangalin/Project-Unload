@@ -25,6 +25,10 @@
 * Combination of HTML/CSS/Python to create a website or app that pulls from a database. Will utilize HTML/CSS to create most of the website.
 SQL used (most likely mariaDB) to create our Database that stores basic employee information along with tracking trailers unloaded.
 ## Product Backlog
+* PB006: Gives 1st, 2nd, 3rd place for reward system, based on the amount of trailers unloaded. 
+  * Success Criteria: Shows 1st, 2nd, and 3rd place employees on the website for the most amount of trailers unloaded.
+* PB007: Leaderboard on website based on number of trailers that each employee unloaded. 
+   * Success Criteria: Lists top employees based on most trailers unloaded.
 ### Github: Project Unload
 * PB006: Gives 1st, 2nd, 3rd place for reward system, based on the amount of trailers unloaded.
 Success Criteria: Shows 1st, 2nd, and 3rd place employees on the website for the most amount of trailers unloaded.
