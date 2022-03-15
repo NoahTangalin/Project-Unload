@@ -37,6 +37,7 @@ Success Criteria: Lists top employees based on most trailers unloaded.
 ## EARe Store
 * EARe Store: projectUnload__EARESTORE__220311014839.html 
 * Data Dictionary:  projectUnload__dataDict__220311014839.html
+![EARe Store](https://user-images.githubusercontent.com/97215041/158347799-0e66582e-46ca-49d0-b907-37ef25177ea7.png)
 
 [](/Users/alainahatfield/Downloads/projectUnload__ERD__220315091311.png)
 ### Key Project Team Members
